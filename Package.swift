@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperCardScan",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.5.9/HyperCardScan.zip",
-            checksum: "5b8603d4ad7d77e4bb732cb0b5a0667591da3461416bf8348c4d3a2c19760427"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.5.10/HyperCardScan.zip",
+            checksum: "297b29488f5b14f53fd8f52a3bfbd2f87c1cb700b5898a6c7fd3bd92a859d2a3"
         )
     ]
 )
